@@ -96,7 +96,7 @@
   <!-- Main Sidebar Container -->
   <aside class="main-sidebar sidebar-dark-primary elevation-4">
     <!-- Brand Logo -->
-    <a href="index3.html" class="brand-link">
+    <a href="./index.php" class="brand-link">
       <!-- <img src="dist/img/AdminLTELogo.png" alt="AdminLTE Logo" class="brand-image img-circle elevation-3"
            style="opacity: .8"> -->
       <span class="brand-text font-weight-light">AICTE Internship</span>
@@ -110,7 +110,9 @@
           <img src="dist/img/user2-160x160.jpg" class="img-circle elevation-2" alt="User Image">
         </div>
         <div class="info">
-          <a href="#" class="d-block">Test User</a>
+          <a href="./user_profile.php" class="d-block">
+            Test User
+          </a>
         </div>
       </div>
 
@@ -127,10 +129,28 @@
           </li>
           
           <li class="nav-item">
-            <a href="./profile.php" class="nav-link">
+            <a href="./company_profile.php" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Profile
+              </p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="./industry_problems.php" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>
+                Industry Problems
+              </p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="./solutions.php" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>
+                Solutions
               </p>
             </a>
           </li>
@@ -141,6 +161,33 @@
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Internships (187)
+              </p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="./post_internship.php" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>
+                Post Internship
+              </p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="./interviews.php" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>
+                Interviews
+              </p>
+            </a>
+          </li>
+
+          <li class="nav-item">
+            <a href="./interview_management.php" class="nav-link">
+              <i class="nav-icon fas fa-th"></i>
+              <p>
+                Interviews Management
               </p>
             </a>
           </li>
@@ -159,7 +206,7 @@
           </li>
 
           <li class="nav-item">
-            <a href="#!" class="nav-link">
+            <a href="http://internship2.aicte-india.org/chat_profile_student.php?uid=STU5e50561c759e61582323228%20&class=" class="nav-link">
               <i class="nav-icon fas fa-th"></i>
               <p>
                 Messaging (187)

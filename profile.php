@@ -350,6 +350,30 @@
                         </div>
                       </div>
                       <div class="form-group row">
+                        <label for="inputSkills" class="col-sm-2 col-form-label">Upload a Video</label>
+                        <div class="col-sm-10">
+                          <input type="file" class="form-control" id="inputSkills" placeholder="Skills">
+                        </div>
+                      </div>
+                      <div class="form-group row">
+                        <label for="inputSkills" class="col-sm-2 col-form-label">Upload a Products</label>
+                        <div class="col-sm-10">
+                          <input type="file" class="form-control" id="inputSkills" placeholder="Skills">
+                        </div>
+                      </div>
+                      <div class="form-group row">
+                        <label for="inputSkills" class="col-sm-2 col-form-label">Upload a Logo</label>
+                        <div class="col-sm-10">
+                          <input type="file" class="form-control" id="inputSkills" placeholder="Skills">
+                        </div>
+                      </div>
+                      <div class="form-group row">
+                        <label for="inputSkills" class="col-sm-2 col-form-label">Description</label>
+                        <div class="col-sm-10">
+                          <input type="text" class="form-control" id="inputSkills" placeholder="Description">
+                        </div>
+                      </div>
+                      <div class="form-group row">
                         <div class="offset-sm-2 col-sm-10">
                           <div class="checkbox">
                             <label>
